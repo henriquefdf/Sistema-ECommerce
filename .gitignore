@@ -1,0 +1,8 @@
+build/
+build_tests/
+.vscode
+*.exe
+main
+*.html
+*.css
+testesmake 
